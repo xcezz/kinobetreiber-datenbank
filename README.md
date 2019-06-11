@@ -8,7 +8,7 @@
 
 `schema.jpg` - das Datenbankschema
 
-
+![Schema](https://github.com/xcezz/kinobetreiber-datenbank/blob/master/schema.jpg)
 
 
 ## Welche Filme laufen in einem gegebenen Zeitraum?
