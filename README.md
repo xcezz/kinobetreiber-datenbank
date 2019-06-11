@@ -1,9 +1,13 @@
 # Kinobetreiber-Datenbank
 
 `datenbank_backup.sql` - die komplette Datenbank inkl. Beispieldaten
+
 `datenbankerstellung.sql` - das Skript zur Datenbankerstellung
+
 `daten.sql` - die Beispieldaten
+
 `schema.jpg` - das Datenbankschema
+
 
 
 
